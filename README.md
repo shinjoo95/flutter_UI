@@ -1,16 +1,4 @@
 # flutter_recipe
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+플러터를 이용한 간단한 레시피 페이지 UI 연습
+![Simulator Screen Recording - iPhone 14 Pro - 2022-11-28 at 21 36 25](https://user-images.githubusercontent.com/102011608/204279423-608c80fc-d505-4fe9-8558-d463351cf487.gif)
