@@ -1,16 +1,6 @@
 # flutter_shoppingcart
 
-A new Flutter project.
+플러터를 이용한 간단한 장바구니 UI 제작
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Recording - iPhone 14 Pro - 2022-11-29 at 18 49 58](https://user-images.githubusercontent.com/102011608/204497458-37bb3351-bca7-471f-8f91-f9ff9cae2a4f.gif)
