@@ -1,16 +1,5 @@
 # flutter_login
 
-A new Flutter project.
+플러터를 이용한 간단한 로그인 페이지 연습
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Recording - iPhone 14 Pro - 2022-11-29 at 17 13 51](https://user-images.githubusercontent.com/102011608/204475230-9df56e41-a8f9-46ce-8432-2561ae0c3c88.gif)
